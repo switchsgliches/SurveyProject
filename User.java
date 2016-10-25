@@ -1,4 +1,3 @@
-
 public class User 
 {
 	public String FirstName;
@@ -11,6 +10,7 @@ public class User
 		LastName = lastname;
 		Age = age;
 	}
+	
 	
 	public void setFirstName(String Firstname)
 	{

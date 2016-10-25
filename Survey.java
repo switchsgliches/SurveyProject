@@ -1,8 +1,10 @@
+//Class used to holding Survey questions and collecting Data. 
 import java.util.Scanner;
 
-public class Survey {
-	
-	Scanner input = new Scanner(System.in);
+public class Survey 
+{
+
+Scanner input = new Scanner(System.in);
 	
 	public String Question1()
 	{
